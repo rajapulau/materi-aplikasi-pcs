@@ -11,7 +11,6 @@ import com.pcs.apptoko.LoginActivity.Companion.sessionManager
 
 
 class AboutFragment : Fragment() {
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
